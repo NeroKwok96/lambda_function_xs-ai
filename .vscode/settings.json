@@ -1,0 +1,24 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "xswarehouse.cdedfeww6dsv.ap-southeast-1.rds.amazonaws.com",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "test_connection",
+      "database": "testdb",
+      "username": "postgres",
+      "password": "x8ThVmAYLFTRn9nd7DzvjeGXBfEsJvj2e9yw4AjZ"
+    },
+    {
+      "previewLimit": 50,
+      "server": "xswarehouse.cdedfeww6dsv.ap-southeast-1.rds.amazonaws.com",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "connect_to_xswarehouse",
+      "password": "x8ThVmAYLFTRn9nd7DzvjeGXBfEsJvj2e9yw4AjZ",
+      "username": "postgres",
+      "database": "xswarehouse"
+    }
+  ]
+}
